@@ -15,4 +15,4 @@ ket-fasilitas-1: Lapangan dengan kualitas tinggi
 ket-fasilitas-2: Standar Nasional dan Standar international
 artikel: Kami melayani pembuatan Renovasi Lapangan, berkualitas tinggi dan dengan standar International.
 ---
-Untuk mendapatkan layanan kami caranya cukup mudah <a href="https://web.whatsapp.com/send?phone=6285259647778&text=Hallo, CS pembuatanlapangan.com">Klik di sini untuk menghubungi via Whatsapp,</a> atau lihat pilihan narahubung lainnya <a href="/kontak-kami/">di laman Hubungi Kami.</a>
+Untuk mendapatkan layanan kami caranya cukup mudah <a href="https://web.whatsapp.com/send?phone=6285259647778&text=Hallo, CS pembuatlapangan.com">Klik di sini untuk menghubungi via Whatsapp,</a> atau lihat pilihan narahubung lainnya <a href="/kontak-kami/">di laman Hubungi Kami.</a>
